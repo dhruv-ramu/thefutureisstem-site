@@ -6,7 +6,7 @@ $(document).ready(function () {
 function checkpassword() {
     const logpassword = document.getElementById('loginpass').value;
 
-    if (logpassword === 'gobuyacopy') {
+    if (logpassword === '1D7FACB2D1') {
         $('.formdisplay').hide(300);
         $('.PDFFlip').show(300)
 
